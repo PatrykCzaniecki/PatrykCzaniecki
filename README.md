@@ -28,8 +28,7 @@
 
 <br />
 <br />
-<br />
-<br />
+
 [facebook]: https://www.facebook.com/patryk.czaniecki/
 [instagram]: https://www.instagram.com/o_c_z_y/
 [linkedin]: https://www.linkedin.com/in/patryk-czaniecki-203802200/
