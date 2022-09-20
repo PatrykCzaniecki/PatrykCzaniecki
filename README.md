@@ -51,6 +51,11 @@
 <br />
 <br />
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrykCzaniecki)](https://github.com/PatrykCzaniecki/github-readme-stats)
+
+<br />
+<br />
+
 [web]: https://www.google.pl/
 [facebook]: https://www.facebook.com/patryk.czaniecki/
 [instagram]: https://www.instagram.com/o_c_z_y/
