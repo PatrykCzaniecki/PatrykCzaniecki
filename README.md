@@ -19,6 +19,8 @@
 
 ### Languages and Tools I use:
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrykCzaniecki&layout=compact)
+
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][web]
 [<img align="left" alt="VisualStudio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="padding-right:10px;" />][web]
 [<img align="left" alt="PyCharm" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" style="padding-right:10px;" />][web]
@@ -51,8 +53,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrykCzaniecki&count_private=true&hide=contribs,prs,issues&show_icons=true&&theme=algolia)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrykCzaniecki&layout=compact)]
 
 [web]: https://www.google.pl/
 [facebook]: https://www.facebook.com/patryk.czaniecki/
