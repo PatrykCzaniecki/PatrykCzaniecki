@@ -17,8 +17,6 @@
 
 <br />
 
-<a href="https://github.com/PatrykCzaniecki?tab=repositories"><img src="https://camo.githubusercontent.com/eb45baad6fafc9faaede802e62a80baa1577be1dcc20fa209f40132955e23926/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6d617277696e3139393126636f6c6f723d303030303030" alt="" data-canonical-src="https://komarev.com/ghpvc/?username=Patrykczaniecki&amp;color=000000" style="max-width: 100%;"></a>
-
 ### Languages and Tools I use:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][web]
@@ -42,6 +40,11 @@
 [<img align="left" alt=".NetCore" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" style="padding-right:10px;" />][web]
 [<img align="left" alt="Unity" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" style="padding-right:10px;" />][web]
 [<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />][web]
+
+<br />
+<br />
+
+<a href="https://github.com/PatrykCzaniecki?tab=repositories"><img src="https://camo.githubusercontent.com/eb45baad6fafc9faaede802e62a80baa1577be1dcc20fa209f40132955e23926/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6d617277696e3139393126636f6c6f723d303030303030" alt="" data-canonical-src="https://komarev.com/ghpvc/?username=Patrykczaniecki&amp;color=000000" style="max-width: 100%;"></a>
 
 <br />
 <br />
