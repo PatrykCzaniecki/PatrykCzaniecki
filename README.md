@@ -13,6 +13,7 @@
 [<img align="left" alt="PatrykCzaniecki | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="PatrykCzaniecki | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
 [<img align="left" alt="PatrykCzaniecki | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="PatrykCzaniecki | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
 
 <br />
 
@@ -47,3 +48,4 @@
 [facebook]: https://www.facebook.com/patryk.czaniecki/
 [instagram]: https://www.instagram.com/o_c_z_y/
 [linkedin]: https://www.linkedin.com/in/patryk-czaniecki-203802200/
+[gmail]: mailto:patrykczaniecki@gmail.com/
