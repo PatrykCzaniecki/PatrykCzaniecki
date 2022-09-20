@@ -50,6 +50,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrykCzaniecki)](https://github.com/PatrykCzaniecki/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrykCzaniecki&count_private=true)
+
 <br />
 <br />
 
