@@ -51,8 +51,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrykCzaniecki&count_private=true&hide=contribs,prs,issues&show_icons=true&&theme=algolia)
 
-<br />
-<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrykCzaniecki&layout=compact)]
 
 [web]: https://www.google.pl/
 [facebook]: https://www.facebook.com/patryk.czaniecki/
