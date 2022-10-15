@@ -19,6 +19,8 @@
 
 ### Languages and Tools I use:
 
+<img src="https://github.com/FSou1/FSou1/blob/master/giphy-0.gif" data-canonical-src="https://github.com/FSou1/FSou1/blob/master/giphy-0.gif" width="220" align="right" />
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrykCzaniecki&layout=compact)
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][web]
