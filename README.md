@@ -1,10 +1,10 @@
 ### Hi there, I'm Patrick 👋 
 
-## I'm a Fiance, Student, and almost Full Stack Developer!!!
+## I'm a young developer who develops both on Backend & Frontend.
 
 - 🌱 I’m currently learning everything but specifically React.Js and I improve my skills in C# on .Net platform
 - 👯 I’m looking to collaborate with other students or experienced developers
-- 🔭 2022 Targets: Finish CodeCool course and find my first job in IT industry
+- 🔭 2022 Targets: Finish Codecool course (done) and find my first job in IT industry
 - 🥅 2021 Goals: Graduation from master's studies (AGH Poland) and the beginning of the adventure with programming
 - ⚡ About me: I love to travel around the word, engage in physical activities, spending last free time on play wideo games and watching movies
 
