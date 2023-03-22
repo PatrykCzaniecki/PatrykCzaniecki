@@ -53,9 +53,7 @@
 
 [![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrykCzaniecki&count_private=true&hide=contribs,prs,issues&show_icons=true&&theme=algolia)](https://github.com/PatrykCzaniecki/github-readme-stats)
 
-[![Patrick's GitHub stats](https://patryk-czaniecki.vercel.app/api?username=PatrykCzaniecki&count_private=true&hide=contribs,prs,issues&show_icons=true&&theme=algolia)](https://github.com/PatrykCzaniecki/github-readme-stats)
-
-[Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PatrykCzaniecki&repo=friendlygames&show_owner=true)
+(https://github-readme-stats.vercel.app/api/pin/?username=PatrykCzaniecki&repo=friendlygames&show_owner=true)
 
 [web]: https://www.google.pl/
 [facebook]: https://www.facebook.com/patryk.czaniecki/
