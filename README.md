@@ -2,7 +2,7 @@
 
 ## I'm a young developer who develops both on Backend & Frontend.
 
-- 🌱 I’m currently learning everything but specifically React.Js and I improve my skills in C# on .Net platform
+- 🌱 I’m currently learning everything but specifically C# on .Net platform and VB.Net. I improve my skills in React.Js
 - 👯 I’m looking to collaborate with other students or experienced developers
 - 🧨 2023 Overarching goal: Make a career as a programmer
 - 🔭 2022 Targets: Finish Codecool course and find my first job in IT industry
